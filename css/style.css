@@ -1,0 +1,82 @@
+
+        #logo{
+            background-color: #b3b3ab;
+            height: 150px;
+            text-align:center ;
+        }
+        #cadastro{
+          background-color:  #b3b3ab;
+          height: 450px;
+      }
+        #navbar{
+            background-color: #4CAF50;
+            height: 150px;
+            font-size: 100px;
+            text-align: center;
+  
+        }
+        #h1{
+          font-size: 64px;
+          margin: auto;
+          background-color: #4CAF50;
+          color:#ffffff;
+         
+        }
+        #h3{
+          color:#ffffff;
+          text-align: center;
+        }
+        #corpo{
+            background-color: #ffffff;
+            min-height: 450px;
+        }
+        #menu{
+            background-color: #b3b3ab;
+            min-height: 150px;
+        }
+        #rodapé{
+            background-color: #4CAF50;
+            height: 40px;
+            text-align: center;
+            color: #ffffff;
+        }
+        #login{
+          background-color: #b3b3ab;
+          min-height: 250px;
+        }
+        .vertical-menu {
+        width: 200px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display:block;
+  padding: 10px;
+  width: 450px;
+  text-align: center;
+  margin: 0;
+}
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 64px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
